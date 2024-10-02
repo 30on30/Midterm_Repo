@@ -1,2 +1,3 @@
 # Put your project description here!
-Tell me about your project. Plz.
+C# coding practice, using lists, arrays, if/else and singleton 
+getting around Unity and familiarizing  myself with the program
